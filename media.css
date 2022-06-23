@@ -1,0 +1,65 @@
+@media screen and (max-width:990px) {
+    .circle1{
+        width: 40%;
+        height: 400px;
+        margin-left: 180px;
+        margin-top: 50px;
+    }
+    .circle2{
+        width: 32%;
+        height: 320px;
+        margin-left: 220px;
+        margin-top: -350px;
+    }
+    .doctor{
+        margin-left: -130px;
+        margin-top: -370px;
+    }
+    .find{
+        margin-top: -500px;
+    }
+    .collection{
+        display: none;
+    }
+    .btn1{
+        display: none;
+    }
+    .menu{
+        display: block;
+        margin-left: 400px;
+    }
+    .skills{
+        display: none;
+    }
+    .div{
+        margin-top: -190px;
+    }
+    .div2{
+        margin-left: -460px;
+    }
+    .div3{
+        margin-top: -70px;
+        margin-left: -200px;
+    }
+    .container3{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .meet{
+        display: none;
+    }
+    .our{
+        display: none;
+    }
+    .our2{
+        display: none;
+    }
+    .mobile{
+        display: none;
+    }
+    .class{
+        display: none;
+    }
+    .app{
+        display: none;
+    }
+}
